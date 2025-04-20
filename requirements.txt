@@ -1,0 +1,11 @@
+import streamlit as st
+import cv2
+import numpy as np
+import face_recognition
+import os
+import pandas as pd
+from datetime import datetime
+import sqlite3
+from fpdf import FPDF
+
+install python, pycharm, sqlite3, streamlit, html, css, javascript. 
